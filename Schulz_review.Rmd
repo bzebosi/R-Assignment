@@ -1,0 +1,10 @@
+---
+title: "Schulz_review.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is really impressive and well put togther. Your graphs are excellent and visually appealing. I did have some errors with running your code, mainly with the "tidyr" package. However, the rest of it was correct and easy to follow. 
